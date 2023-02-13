@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Lerking/golang-repo-template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Lerking/golang-repo-template.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/watchers/)
 
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://www.golang.com/)
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 
 [![GitHub license](https://img.shields.io/github/license/Lerking/golang-repo-template.svg)](https://github.com/Lerking/golang-repo-template/blob/master/LICENSE)
 
@@ -12,8 +12,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Lerking/golang-repo-template.github.io/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/Lerking/golang-repo-template.svg)](https://GitHub.com/Lerking/golang-repo-template/graphs/contributors/)
 
-[![GitHub commits](https://badgen.net/github/commits/Lerking/golang-repo-template)](https://GitHub.com/Lerking/golang-repo-template/commit/)
-[![GitHub latest commit](https://badgen.net/github/last-commit/Lerking/golang-repo-template)](https://GitHub.com/Lerking/golang-repo-template/commit/)
+![GitHub last commit](https://img.shields.io/github/last-commit/Lerking/golang-repo-template)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Lerking/golang-repo-template)
 [![Github file count](https://img.shields.io/github/directory-file-count/Lerking/golang-repo-template)]()
 
 [![GitHub issues](https://img.shields.io/github/issues/Lerking/golang-repo-template.svg)](https://GitHub.com/Lerking/golang-repo-template/issues/)
