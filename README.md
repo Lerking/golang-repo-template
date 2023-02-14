@@ -2,6 +2,7 @@
 - You can use this template to create a new golang repo.
   - __Note:__ This template is not a golang project, it is a template for creating a new golang repo.
   Also the README file here only works with ___public___ repos.
+  After creating a new repo, you will need to change the README file to suit your needs. All badges with repo references must be updated to point to your new repo. Otherwise you'll see info from the template repo instead.
   If you create a ___private___ repo, you will need to change the README file to suit your needs. Badges referencing a repo can only be seen on ___public___ repos. ___Private___ repos are not visible to the badge service.
   - __Note:__ The wakatime badge requires a wakatime account.
 - After creating the new repo, you can replace the GLPv3 license with another license that suits you, if required.
