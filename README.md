@@ -43,7 +43,6 @@ Example Go project repo based on this template [Test Go project](https://GitHub.
 
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/Lerking/golang-repo-template)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Lerking/golang-repo-template)
-[![GitHub total-pull-requests](https://badgen.net/github/prs/Lerking/golang-repo-template)](https://GitHub.com/Lerking/golang-repo-template/pull)
 
 Coding time for the last 30 days.</br>
 [![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/3bf1925d-c859-44af-b2e6-3f53d804d3a0.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/3bf1925d-c859-44af-b2e6-3f53d804d3a0)
