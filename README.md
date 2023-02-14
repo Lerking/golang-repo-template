@@ -9,7 +9,7 @@
   If you create a ___private___ repo, you will need to change the README file to suit your needs.</br>
   Badges referencing a repo can only be seen on ___public___ repos. ___Private___ repos are not visible to the badge service.
   - __Note:__ The wakatime badge requires a wakatime account.
-- After creating the new repo, you can replace the GLPv3 license with another license that suits you, if required.
+- After creating the new repo, you can replace the GPLv3 license with another license that suits you, if required.
 - Then start your golang project with go mod init.
 
 Example Go project repo based on this template [Test Go project](https://GitHub.com/Lerking/test-go-project)
