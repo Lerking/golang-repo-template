@@ -1,1 +1,1 @@
-pass
+package main

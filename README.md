@@ -1,4 +1,11 @@
 # Go repo template
+- You can use this template to create a new golang repo.
+  - __Note:__ This template is not a golang project, it is a template for creating a new golang repo.
+  Also the README file here only works with <public> repos.
+  If you create a <private> repo, you will need to change the README file to suit your needs. Especially the repo info badges, which can only be done with <public> repos.
+- After creating the new repo, you can replace the GLPv3 license with another license that suits you, if required.
+- Then start your golang project with go mod init <project name>
+
 [![GitHub forks](https://img.shields.io/github/forks/Lerking/golang-repo-template.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/forks/)
 [![GitHub stars](https://img.shields.io/github/stars/Lerking/golang-repo-template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Lerking/golang-repo-template.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/watchers/)
