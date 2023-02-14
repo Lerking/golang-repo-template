@@ -50,3 +50,6 @@ Coding time for the last 30 days.</br>
 
 See the wiki for usage and examples.
 [golang-repo-template wiki page](https://github.com/Lerking/golang-repo-template/wiki)
+
+Visitors since repo creation.</br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.golang-repo-template)
