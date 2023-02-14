@@ -1,5 +1,7 @@
 # Go repo template
 - You can use this template to create a new golang repo.
+  - Start by forking this template repo to you own github page.
+    - Then create a new repo on your github page, using this repo template.
   - __Note:__ This template is not a golang project, it is a template for creating a new golang repo.</br>
   Also the README file here only works with ___public___ repos.
   After creating a new repo, you will need to change the README file to suit your needs.</br>
