@@ -8,7 +8,7 @@
 - After creating the new repo, you can replace the GLPv3 license with another license that suits you, if required.
 - Then start your golang project with go mod init.
 
-Example Go project repo based on this template(https://GitHub.com/Lerking/test-go-project)
+Example Go project repo based on this template [Test Go project](https://GitHub.com/Lerking/test-go-project)
 
 [![GitHub forks](https://img.shields.io/github/forks/Lerking/golang-repo-template.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/forks/)
 [![GitHub stars](https://img.shields.io/github/stars/Lerking/golang-repo-template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/golang-repo-template/stargazers/)
