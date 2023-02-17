@@ -29,7 +29,7 @@ Example Go project repo based on this template [Test Go project](https://GitHub.
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Lerking/golang-repo-template.github.io/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/Lerking/golang-repo-template.svg)](https://GitHub.com/Lerking/golang-repo-template/graphs/contributors/)
 
-![example workflow](https://github.com/Lerking/actions/workflows/go.yml/badge.svg)
+![example workflow](https://github.com/Lerking/golang-repo-template/actions/workflows/go.yml/badge.svg)
 
 ## Please join the discusion panel</br>
 ![GitHub Discussions](https://img.shields.io/github/discussions/Lerking/golang-repo-template)
