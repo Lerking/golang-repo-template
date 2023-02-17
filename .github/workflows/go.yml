@@ -31,7 +31,7 @@ jobs:
       - name: Run vet & lint
         run: |
           go vet .
-          golint .
+          go lint .
 
       - name: Run testing
         run: cd test && go test -v
