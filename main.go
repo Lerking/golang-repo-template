@@ -1,7 +1,7 @@
 package main
 
-def main() {
-  Println("I'm here!")
-}
+import . "fmt"
 
-main()
+func main() {
+	Println("I'm here!")
+}
